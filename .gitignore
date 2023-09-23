@@ -1,0 +1,15 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# vitepress build output
+/docs/.vitepress/dist/
+
+# vitepress cache directory
+/docs/.vitepress/cache/
+
+.vscode
