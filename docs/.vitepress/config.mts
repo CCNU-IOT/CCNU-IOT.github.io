@@ -73,6 +73,33 @@ export default defineConfig({
           ]
         }
       ],
+      '/hardware/struct-design/': [
+        {
+          text: 'Linux学习',
+          collapsed: true,
+          items: [
+            { text: 'Linux学习', link: '/hardware/struct-design/Linux学习' },
+            { text: 'Linux命令大全', link: '/hardware/struct-design/Linux命令大全' },
+            { text: '实现ubuntu虚拟机和Windows的文件共享', link: '/hardware/struct-design/实现ubuntu虚拟机和Windows的文件共享' },
+            { text: 'Ubuntu22.04虚拟机实现科学上网', link: '/hardware/struct-design/Ubuntu22.04虚拟机实现科学上网' }
+          ]
+        },
+        {
+            text: 'Git学习',
+            collapsed: true,
+            items: [
+              { text: 'Git本地到远程', link: '/hardware/struct-design/Git本地到远程' },
+              { text: 'Git常用命令及工作原理', link: '/hardware/struct-design/Git常用命令及工作原理' }
+            ]
+        },
+        {
+          text: 'vscode环境配置',
+          collapsed: true,
+          items: [
+            { text: 'Windows配置vscode的CC++环境', link: '/hardware/struct-design/Windows配置vscode的CC++环境' }
+          ]
+        }
+      ],
       '/association-building/meeting/': [
         {
           text: '每周例会',
