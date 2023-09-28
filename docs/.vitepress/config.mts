@@ -75,10 +75,9 @@ export default defineConfig({
       ],
       '/hardware/struct-design/': [
         {
-          text: 'Linux学习',
+          text: 'Linux',
           collapsed: true,
           items: [
-            { text: 'Linux学习', link: '/hardware/struct-design/Linux学习' },
             { text: 'Linux命令大全', link: '/hardware/struct-design/Linux命令大全' },
             { text: '实现ubuntu虚拟机和Windows的文件共享', link: '/hardware/struct-design/实现ubuntu虚拟机和Windows的文件共享' },
             { text: 'Ubuntu22.04虚拟机实现科学上网', link: '/hardware/struct-design/Ubuntu22.04虚拟机实现科学上网' }
