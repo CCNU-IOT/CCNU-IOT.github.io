@@ -6,6 +6,7 @@ export default defineConfig({
   title: "华中师范大学物联网协会",
   description: "This site belongs to the Internet of Things Association of Central China Normal University.",
   lastUpdated: true,
+  ignoreDeadLinks:true,
   head: [['link', { rel: 'icon', href: '/pictures/icon.png' }]],
   markdown: {
     math: true,
