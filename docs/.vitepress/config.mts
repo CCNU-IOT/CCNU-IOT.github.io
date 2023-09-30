@@ -72,7 +72,14 @@ export default defineConfig({
             { text: 'LCD1602显示器', link: '/hardware/embedded-software/LCD1602显示器' },
             { text: '点阵屏', link: '/hardware/embedded-software/点阵屏' }
           ]
-        }
+        },
+        {
+          text: '虚拟机相关文档',
+          collapsed: true,
+          items: [
+            { text: '虚拟机安装', link: '/hardware/embedded-software/虚拟机安装' },
+          ]
+        },
       ],
       '/hardware/struct-design/': [
         {
