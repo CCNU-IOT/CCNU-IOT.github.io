@@ -209,11 +209,11 @@ const member_app = [
     ]
   },
   {
-    avatar: 'https://github.com/Luody.png',
-    name: 'Luody',
+    avatar: 'https://github.com/Y-dddl.png',
+    name: 'Y-dddl',
     title: '物联网协会APP组成员、华中师范大学计算机学院2022级计算机类',
     links: [
-      { icon: 'github', link: 'https://github.com/Luody' },
+      { icon: 'github', link: 'https://github.com/Y-dddl' },
     ]
   },
   {
