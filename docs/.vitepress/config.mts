@@ -80,6 +80,13 @@ export default defineConfig({
             { text: '虚拟机安装', link: '/hardware/embedded-software/虚拟机安装' },
           ]
         },
+        {
+          text: '嵌入式小窝',
+          collapsed: true,
+          items: [
+            {text: '嵌入式学习路线', link: '/hardware/embedded-software/嵌入式学习路线'},
+          ]
+        }
       ],
       '/hardware/struct-design/': [
         {
