@@ -86,6 +86,15 @@ export default defineConfig({
           items: [
             {text: '嵌入式学习路线', link: '/hardware/embedded-software/嵌入式学习路线'},
           ]
+        },
+        {
+          text: 'CMake学习文档',
+          collapsed: true,
+          items: [
+            {text: '基本框架', link: '/hardware/embedded-software/cmake/基本框架'},
+            {text: '工程版本号', link: '/hardware/embedded-software/cmake/工程版本号'},
+            {text: '添加库和链接库', link: '/hardware/embedded-software/cmake/添加库和链接库'}
+          ]
         }
       ],
       '/hardware/struct-design/': [
