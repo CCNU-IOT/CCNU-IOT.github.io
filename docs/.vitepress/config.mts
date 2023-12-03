@@ -108,14 +108,6 @@ export default defineConfig({
           ]
         },
         {
-            text: 'Git学习',
-            collapsed: true,
-            items: [
-              { text: 'Git本地到远程', link: '/hardware/struct-design/Git本地到远程' },
-              { text: 'Git常用命令及工作原理', link: '/hardware/struct-design/Git常用命令及工作原理' }
-            ]
-        },
-        {
           text: 'vscode环境配置',
           collapsed: true,
           items: [
