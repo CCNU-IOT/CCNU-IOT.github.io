@@ -137,6 +137,13 @@ export default defineConfig({
           items:[
             
           ]
+        },
+        {
+          text: 'All Hands会议',
+          collapsed: true,
+          items:[
+            
+          ]
         }
       ],
       '/association-building/team-building/': [
@@ -149,6 +156,13 @@ export default defineConfig({
               collapsed: true,
               items: [
                 { text: '2023-5-21', link: '/association-building/team-building/first-half-2023/2023-5-21'}
+              ]
+            },
+            {
+              text: 'Second half of 2023',
+              collapsed: true,
+              items: [
+                { text: '2023-12-2', link: ''}
               ]
             }
           ]
