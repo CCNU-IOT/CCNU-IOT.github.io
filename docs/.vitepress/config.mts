@@ -108,6 +108,14 @@ export default defineConfig({
           ]
         },
         {
+            text: 'Git学习',
+            collapsed: true,
+            items: [
+              { text: 'Git本地到远程', link: '/hardware/struct-design/Git本地到远程' },
+              { text: 'Git常用命令及工作原理', link: '/hardware/struct-design/Git常用命令及工作原理' }
+            ]
+        },
+        {
           text: 'vscode环境配置',
           collapsed: true,
           items: [
@@ -147,7 +155,7 @@ export default defineConfig({
               text: 'First half of 2023',
               collapsed: true,
               items: [
-                { text: '2023-5-21', link: '/association-building/team-building/first-half-2023/2023-5-21'}
+                { text: '2023-5-21', link: '/association-building/team-building/first-half-2023/2023-5-21'},
               ]
             },
             {
