@@ -162,7 +162,7 @@ export default defineConfig({
               text: 'Second half of 2023',
               collapsed: true,
               items: [
-                { text: '2023-12-2', link: ''}
+                { text: '2023-12-2', link: '/association-building/team-building/second-half-2023/2023-12-2'}
               ]
             }
           ]
